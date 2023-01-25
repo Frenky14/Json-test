@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "country": "Slovenia",
+    "skiResort": "Krvavec",
+    "date": "2023-01-25",
+    "fbEvent": "TBA"
+  },
+  {
+    "id": 2,
+    "country": "Austria",
+    "skiResort": "Kühtai",
+    "date": "2023-02-07",
+    "fbEvent": "TBA"
+  },
+    {
+    "id": 3,
+    "country": "Austria",
+    "skiResort": "Gerlitzen",
+    "date": "2023-02-18",
+    "fbEvent": "TBA"
+  },
+      {
+    "id": 4,
+    "country": "Austria",
+    "skiResort": "Katschberg",
+    "date": "2023-03-04",
+    "fbEvent": "TBA"
+  },
+    {
+    "id": 5,
+    "country": "Slovenia",
+    "skiResort": "Rogla",
+    "date": "2023-04-03",
+    "fbEvent": "TBA"
+  },
+      {
+    "id": 6,
+    "country": "Italy",
+    "skiResort": "Cortina",
+    "date": "2022-16-12",
+    "fbEvent": "TBA"
+  }
+]
+  
