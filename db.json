@@ -4,41 +4,41 @@
     "country": "Slovenia",
     "skiResort": "Krvavec",
     "date": "25/1/2023",
-    "fbEvent": "TBA"
+    "note": "test note"
   },
   {
     "id": 2,
     "country": "Austria",
     "skiResort": "Kühtai",
     "date": "7/2/2023",
-    "fbEvent": "TBA"
+    "note": "test note"
   },
     {
     "id": 3,
     "country": "Austria",
     "skiResort": "Gerlitzen",
     "date": "18/2/2023 - 20/2/2023",
-    "fbEvent": "TBA"
+    "note": "test note"
   },
       {
     "id": 4,
     "country": "Austria",
     "skiResort": "Katschberg",
     "date": "3/4/2023",
-    "fbEvent": "TBA"
+    "note": "test note"
   },
     {
     "id": 5,
     "country": "Slovenia",
     "skiResort": "Rogla",
     "date": "4/3/2023",
-    "fbEvent": "TBA"
+    "note": "test note"
   },
       {
     "id": 6,
     "country": "Italy",
     "skiResort": "Cortina",
     "date": "16/12/2022",
-    "fbEvent": "TBA"
+    "note": "test note"
   }
 ]
