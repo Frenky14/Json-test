@@ -3,315 +3,315 @@
         "id": 1,
         "country": "Finland",
         "skiResort": "Ounasvaara",
-        "date": "2024-11-23",
+        "date": "11/23/2024",
         "note": ""
     },
     {
         "id": 2,
         "country": "Italy",
         "skiResort": "Cervinia",
-        "date": "2024-11-24",
+        "date": "11/24/2024",
         "note": "seggiovia Plan Torrette"
     },
     {
         "id": 3,
         "country": "France",
         "skiResort": "Val d'Isère",
-        "date": "2024-11-30/2024-12-01",
+        "date": "11/30/2024 - 12/01/2024",
         "note": ""
     },
     {
         "id": 4,
         "country": "Italy",
         "skiResort": "Domobianca",
-        "date": "2024-12-06",
+        "date": "12/06/2024",
         "note": ""
     },
     {
         "id": 5,
         "country": "Italy",
         "skiResort": "Pfelders",
-        "date": "2024-12-08",
+        "date": "12/08/2024",
         "note": ""
     },
     {
         "id": 6,
         "country": "Finland",
         "skiResort": "Ylläsjärvi",
-        "date": "2024-12-07",
+        "date": "12/07/2024",
         "note": ""
     },
     {
         "id": 7,
         "country": "France",
         "skiResort": "Avoriaz",
-        "date": "2024-12-13/2024-12-15",
+        "date": "12/13/2024 - 12/15/2024",
         "note": ""
     },
     {
         "id": 8,
         "country": "Poland",
         "skiResort": "Białka Tatrzańska",
-        "date": "2024-12-14/2024-12-15",
+        "date": "12/14/2024 - 12/15/2024",
         "note": ""
     },
     {
         "id": 9,
         "country": "Italy",
         "skiResort": "Cortina",
-        "date": "2024-12-14/2024-12-15",
+        "date": "12/14/2024 - 12/15/2024",
         "note": ""
     },
     {
         "id": 10,
         "country": "Austria",
         "skiResort": "Katschberg",
-        "date": "2024-12-26",
+        "date": "12/26/2024",
         "note": ""
     },
     {
         "id": 11,
         "country": "Finland",
         "skiResort": "Messilä",
-        "date": "2025-01-04",
+        "date": "01/04/2025",
         "note": ""
     },
     {
         "id": 12,
         "country": "Slovenia",
         "skiResort": "Mariborsko Pohorje",
-        "date": "2025-01-05",
+        "date": "01/05/2025",
         "note": ""
     },
     {
         "id": 13,
         "country": "Austria",
         "skiResort": "Elmau",
-        "date": "2025-01-11",
+        "date": "01/11/2025",
         "note": ""
     },
     {
         "id": 14,
         "country": "Czech Republic",
         "skiResort": "Stříbrnice",
-        "date": "2025-01-11",
+        "date": "01/11/2025",
         "note": ""
     },
     {
         "id": 15,
         "country": "Austria",
         "skiResort": "Nassfeld",
-        "date": "2025-01-11",
+        "date": "01/11/2025",
         "note": ""
     },
     {
         "id": 16,
         "country": "Poland",
         "skiResort": "Jaworzyna Krynicka",
-        "date": "2025-01-11/2025-01-12",
+        "date": "01/11/2025 - 01/12/2025",
         "note": ""
     },
     {
         "id": 17,
         "country": "Slovenia",
         "skiResort": "Krvavec",
-        "date": "2025-01-12",
+        "date": "01/12/2025",
         "note": ""
     },
     {
         "id": 18,
         "country": "Finland",
         "skiResort": "Vihti",
-        "date": "2025-01-18",
+        "date": "01/18/2025",
         "note": ""
     },
     {
         "id": 19,
         "country": "Slovenia",
         "skiResort": "Sorica",
-        "date": "2025-01-19",
+        "date": "01/19/2025",
         "note": ""
     },
     {
         "id": 20,
         "country": "Finland",
         "skiResort": "Sappee",
-        "date": "2025-01-19",
+        "date": "01/19/2025",
         "note": ""
     },
     {
         "id": 21,
         "country": "Italy",
         "skiResort": "Forlgaria",
-        "date": "2025-01-20/2025-01-21",
+        "date": "01/20/2025 - 01/21/2025",
         "note": ""
     },
     {
         "id": 22,
         "country": "Slovakia",
         "skiResort": "Bachledka",
-        "date": "2025-01-25",
+        "date": "01/25/2025",
         "note": ""
     },
     {
         "id": 23,
         "country": "Finland",
         "skiResort": "Hyvinkään Sveitsi",
-        "date": "2025-01-25",
+        "date": "01/25/2025",
         "note": ""
     },
     {
         "id": 24,
         "country": "Finland",
         "skiResort": "Himos",
-        "date": "2025-01-26",
+        "date": "01/26/2025",
         "note": ""
     },
     {
         "id": 25,
         "country": "Italy",
         "skiResort": "Pila",
-        "date": "2025-01-27/2025-01-28",
+        "date": "01/27/2025 - 01/28/2025",
         "note": ""
     },
     {
         "id": 26,
         "country": "Austria",
         "skiResort": "Turracher Hoehe",
-        "date": "2025-02-01",
+        "date": "02/01/2025",
         "note": ""
     },
     {
         "id": 27,
         "country": "Czech Republic",
         "skiResort": "Mladé Buky",
-        "date": "2025-02-01",
+        "date": "02/01/2025",
         "note": ""
     },
     {
         "id": 28,
         "country": "Italy",
         "skiResort": "Chiesa Val Malenco",
-        "date": "2025-02-01/2025-02-02",
+        "date": "02/01/2025 - 02/02/2025",
         "note": ""
     },
     {
         "id": 29,
         "country": "Italy",
         "skiResort": "Aprica",
-        "date": "2025-02-08/2025-02-09",
+        "date": "02/08/2025 - 02/09/2025",
         "note": ""
     },
     {
         "id": 30,
         "country": "Austria",
         "skiResort": "Königsleiten",
-        "date": "2025-02-12/2025-02-13",
+        "date": "02/12/2025 - 02/13/2025",
         "note": "Fussalmexpress"
     },
     {
         "id": 31,
         "country": "Czech Republic",
         "skiResort": "Olešnice na Moravě",
-        "date": "2025-02-05",
+        "date": "02/05/2025",
         "note": ""
     },
     {
         "id": 32,
         "country": "Finland",
         "skiResort": "Messilä",
-        "date": "2025-02-08",
+        "date": "02/08/2025",
         "note": ""
     },
     {
         "id": 33,
         "country": "Austria",
         "skiResort": "Gerlitzen",
-        "date": "2025-02-15",
+        "date": "02/15/2025",
         "note": ""
     },
     {
         "id": 34,
         "country": "Finland",
         "skiResort": "Himos",
-        "date": "2025-02-15/2025-02-16",
+        "date": "02/15/2025 - 02/16/2025",
         "note": ""
     },
     {
         "id": 35,
         "country": "Czech Republic",
         "skiResort": "Stříbrnice",
-        "date": "2025-02-15",
+        "date": "02/20/2025",
         "note": ""
     },
     {
         "id": 36,
         "country": "Germany",
         "skiResort": "Oberjoch",
-        "date": "2025-02-16",
+        "date": "02/21/2025",
         "note": "Iselerbahn"
     },
     {
         "id": 37,
         "country": "Slovenia",
         "skiResort": "Sorica",
-        "date": "2025-02-27",
+        "date": "02/23/2025",
         "note": ""
     },
     {
         "id": 38,
         "country": "Austria",
         "skiResort": "Katschberg",
-        "date": "2025-03-01",
+        "date": "03/01/2025",
         "note": ""
     },
     {
         "id": 39,
         "country": "Austria",
         "skiResort": "Königsleiten",
-        "date": "2025-03-03/2025-03-04",
+        "date": "03/01/2025",
         "note": "Fussalmexpress"
     },
     {
         "id": 40,
         "country": "France",
         "skiResort": "La Clusaz",
-        "date": "2025-03-14/2025-03-16",
+        "date": "03/15/2025",
         "note": "Balme"
     },
     {
         "id": 41,
         "country": "Italy",
         "skiResort": "Aprica",
-        "date": "2025-03-21/2025-03-22",
+        "date": "03/21/2025 - 03/22/2025",
         "note": ""
     },
     {
         "id": 42,
         "country": "France",
         "skiResort": "Les Arcs",
-        "date": "2025-03-28",
+        "date": "03/28/2025",
         "note": ""
     },
     {
         "id": 43,
         "country": "Italy",
         "skiResort": "Cortina",
-        "date": "2025-03-30",
+        "date": "03/30/2025",
         "note": ""
     },
     {
         "id": 44,
         "country": "Slovenia",
         "skiResort": "Mariborsko Pohorje",
-        "date": "2025-04-06",
+        "date": "04/06/2025",
         "note": ""
     },
     {
         "id": 45,
         "country": "Finland",
         "skiResort": "Ylläs",
-        "date": "2025-04-12",
+        "date": "04/12/2025",
         "note": ""
     }
 ]
