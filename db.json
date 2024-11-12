@@ -838,5 +838,33 @@
         "skiResort": "Klausberg",
         "date": "2025-04-05",
         "note": ""
+    },
+        {
+        "id": 61,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Leogang",
+        "date": "2025-01-04",
+        "note": "Asitzbahn"
+    },
+            {
+        "id": 62,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Leogang",
+        "date": "2025-01-05",
+        "note": "Asitzbahn"
     }
 ]
