@@ -866,5 +866,61 @@
         "skiResort": "Leogang",
         "date": "2025-01-05",
         "note": "Asitzbahn"
+    },
+                {
+        "id": 63,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Elsigen-Metsch",
+        "date": "2025-03-08",
+        "note": "Talstation Höchst"
+    },
+                    {
+        "id": 64,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Elsigen-Metsch",
+        "date": "2025-03-09",
+        "note": "Talstation Höchst"
+    },
+                    {
+        "id": 65,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Grindelwald",
+        "date": "2025-02-01",
+        "note": "Kleine Scheidegg/Restaurant Nordwand"
+    },
+                    {
+        "id": 66,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Grindelwald",
+        "date": "2025-02-02",
+        "note": "Kleine Scheidegg/Restaurant Nordwand"
     }
 ]
