@@ -922,5 +922,131 @@
         "skiResort": "Grindelwald",
         "date": "2025-02-02",
         "note": "Kleine Scheidegg/Restaurant Nordwand"
+    },
+        {
+        "id": 67,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Krvavec",
+        "date": "2024-12-26",
+        "note": ""
+    },
+            {
+        "id": 68,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-01-11",
+        "note": ""
+    },
+                {
+        "id": 69,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Krvavec",
+        "date": "2025-01-11",
+        "note": ""
+    },
+                {
+        "id": 70,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Krvavec",
+        "date": "2025-01-18",
+        "note": ""
+    },
+                {
+        "id": 71,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Mariborsko Pohorje",
+        "date": "2025-01-18",
+        "note": ""
+    },
+                {
+        "id": 72,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Mariborsko Pohorje",
+        "date": "2025-01-25",
+        "note": ""
+    },
+                {
+        "id": 73,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Rogla",
+        "date": "2025-01-25",
+        "note": ""
+    },
+                {
+        "id": 74,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Rogla",
+        "date": "2025-02-22",
+        "note": ""
+    },
+                {
+        "id": 75,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Krvavec",
+        "date": "2025-03-01",
+        "note": ""
     }
 ]
