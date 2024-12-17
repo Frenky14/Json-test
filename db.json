@@ -1342,5 +1342,33 @@
         "skiResort": "Sommet Morin-Heights",
         "date": "2025-02-15",
         "note": ""
+    },
+        {
+        "id": 97,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Les Collons (VS)",
+        "date": "2025-03-01",
+        "note": "Départ du téléski de la Joc"
+    },
+        {
+        "id": 98,
+        "country": {
+            "EN": "Switzerland",
+            "DE": "Schweiz",
+            "IT": "Svizzera",
+            "FR": "Suisse",
+            "CZ": "Švýcarsko",
+            "SI": "Švica"
+        },
+        "skiResort": "Les Collons (VS)",
+        "date": "2025-03-02",
+        "note": "Départ du téléski de la Joc"
     }
 ]
