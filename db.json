@@ -1356,5 +1356,34 @@
         "skiResort": "Les Collons (VS)",
         "date": "2025-03-02",
         "note": "Départ du téléski de la Joc"
+    },
+        {
+        "id": 99,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Hochficht",
+        "date": "2025-02-01",
+        "note": ""
+    },
+        {
+        "id": 100,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Hochficht",
+        "date": "2025-02-02",
+        "note": ""
     }
 ]
+
