@@ -1384,6 +1384,146 @@
         "skiResort": "Hochficht",
         "date": "2025-02-02",
         "note": ""
+    },
+        {
+        "id": 101,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-01-9",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 102,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-01-16",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 103,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-01-23",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 104,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-01-30",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 105,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-02-06",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 106,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-02-13",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 107,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-02-20",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 108,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-02-27",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 109,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-03-06",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 110,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kranjska Gora",
+        "date": "2025-03-13",
+        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
     }
 ]
 
