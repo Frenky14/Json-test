@@ -1524,6 +1524,34 @@
         "skiResort": "Kranjska Gora",
         "date": "2025-03-13",
         "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
+    },
+        {
+        "id": 111,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Hochficht",
+        "date": "2025-02-01",
+        "note": ""
+    },
+        {
+        "id": 112,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Hochficht",
+        "date": "2025-02-02",
+        "note": ""
     }
 ]
 
