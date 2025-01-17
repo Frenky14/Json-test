@@ -364,34 +364,6 @@
         "note": ""
     },
     {
-        "id": 27,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Forlgaria",
-        "date": "2025-01-20",
-        "note": ""
-    },
-    {
-        "id": 28,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Forlgaria",
-        "date": "2025-01-21",
-        "note": ""
-    },
-    {
         "id": 29,
         "country": {
             "EN": "Slovakia",
@@ -431,34 +403,6 @@
         },
         "skiResort": "Himos",
         "date": "2025-01-26",
-        "note": ""
-    },
-    {
-        "id": 32,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Pila",
-        "date": "2025-01-27",
-        "note": ""
-    },
-    {
-        "id": 33,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Pila",
-        "date": "2025-01-28",
         "note": ""
     },
     {
@@ -796,20 +740,6 @@
         "skiResort": "Großarl",
         "date": "2025-03-21",
         "note": "Panoramabahn"
-    },
-    {
-        "id": 58,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Val Gardena",
-        "date": "2025-03-28",
-        "note": ""
     },
     {
         "id": 59,
