@@ -634,5 +634,17 @@
             "SI": "ZDA"
         },
         "skiResort": "Village Ski Loft"
+    },
+    {
+        "id": 54,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Kitzbühel"
     }
 ]
