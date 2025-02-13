@@ -504,20 +504,6 @@
         "note": "Fussalmexpress"
     },
     {
-        "id": 41,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Königsleiten",
-        "date": "2025-02-13",
-        "note": "Fussalmexpress"
-    },
-    {
         "id": 42,
         "country": {
             "EN": "Czech Republic",
