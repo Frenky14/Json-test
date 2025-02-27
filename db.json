@@ -951,20 +951,6 @@
         "date": "2025-02-22",
         "note": ""
     },
-                {
-        "id": 75,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Krvavec",
-        "date": "2025-03-01",
-        "note": ""
-    },
     {
         "id": 76,
         "country": {
