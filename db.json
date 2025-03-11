@@ -1566,6 +1566,48 @@
         "skiResort": "Areh",
         "date": "2025-02-23",
         "note": ""
+    },
+                {
+        "id": 122,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kope",
+        "date": "2025-03-15",
+        "note": ""
+    },
+                {
+        "id": 123,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Kope",
+        "date": "2025-03-16",
+        "note": ""
+    },
+                {
+        "id": 124,
+        "country": {
+            "EN": "Slovenia",
+            "DE": "Slowenien",
+            "IT": "Slovenia",
+            "FR": "Slovénie",
+            "CZ": "Slovinsko",
+            "SI": "Slovenija"
+        },
+        "skiResort": "Vogel",
+        "date": "2025-03-25",
+        "note": ""
     }
 ]
 
