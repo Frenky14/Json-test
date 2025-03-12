@@ -1400,20 +1400,6 @@
         "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
     },
         {
-        "id": 110,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kranjska Gora",
-        "date": "2025-03-14",
-        "note": "Nočna smuka - Izposojevalnica Intersport Bernik"
-    },
-        {
         "id": 111,
         "country": {
             "EN": "Austria",
