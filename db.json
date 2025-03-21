@@ -1092,20 +1092,6 @@
         "note": ""
     },
     {
-        "id": 88,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Areh",
-        "date": "2025-03-23",
-        "note": ""
-    },
-    {
         "id": 89,
         "country": {
             "EN": "Canada",
