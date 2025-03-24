@@ -724,7 +724,21 @@
             "SI": "Avstrija"
         },
         "skiResort": "Großarl",
-        "date": "2025-03-21",
+        "date": "2025-03-26",
+        "note": "Panoramabahn"
+    },
+        {
+        "id": 57,
+        "country": {
+            "EN": "Austria",
+            "DE": "Österreich",
+            "IT": "Austria",
+            "FR": "Autriche",
+            "CZ": "Rakousko",
+            "SI": "Avstrija"
+        },
+        "skiResort": "Großarl",
+        "date": "2025-03-27",
         "note": "Panoramabahn"
     },
     {
