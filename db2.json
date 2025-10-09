@@ -635,8 +635,20 @@
         },
         "skiResort": "Village Ski Loft"
     },
-    {
+        {
         "id": 54,
+        "country": {
+            "EN": "USA",
+            "DE": "USA",
+            "IT": "Stati Uniti",
+            "FR": "États-Unis",
+            "CZ": "Spojené státy",
+            "SI": "ZDA"
+        },
+        "skiResort": "The Ski Monster"
+    },
+    {
+        "id": 55,
         "country": {
             "EN": "Austria",
             "DE": "Österreich",
