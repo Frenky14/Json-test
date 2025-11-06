@@ -128,12 +128,12 @@
     {
         "id": 10,
         "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
+            "EN": "Italy",
+            "DE": "Italien",
+            "IT": "Italia",
+            "FR": "Italie",
+            "CZ": "Itálie",
+            "SI": "Italija"
         },
         "skiResort": "Kronplatz",
         "date": "2025-12-04",
@@ -142,12 +142,12 @@
     {
         "id": 11,
         "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
+            "EN": "Italy",
+            "DE": "Italien",
+            "IT": "Italia",
+            "FR": "Italie",
+            "CZ": "Itálie",
+            "SI": "Italija"
         },
         "skiResort": "Kronplatz",
         "date": "2025-12-05",
@@ -156,12 +156,12 @@
     {
         "id": 12,
         "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
+            "EN": "Italy",
+            "DE": "Italien",
+            "IT": "Italia",
+            "FR": "Italie",
+            "CZ": "Itálie",
+            "SI": "Italija"
         },
         "skiResort": "Kronplatz",
         "date": "2025-12-06",
@@ -170,12 +170,12 @@
     {
         "id": 13,
         "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
+            "EN": "Italy",
+            "DE": "Italien",
+            "IT": "Italia",
+            "FR": "Italie",
+            "CZ": "Itálie",
+            "SI": "Italija"
         },
         "skiResort": "Kronplatz",
         "date": "2025-12-07",
