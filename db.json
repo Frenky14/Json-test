@@ -1,1696 +1,1724 @@
 [
-    {
-        "id": 1,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Solden",
-        "date": "2025-11-01",
-        "note": "Tiefenbach"
-    },
-    {
-        "id": 2,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Solden",
-        "date": "2025-11-02",
-        "note": "Tiefenbach"
-    },
-    {
-        "id": 3,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Solden",
-        "date": "2025-11-03",
-        "note": "Tiefenbach"
-    },
-    {
-        "id": 4,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Solden",
-        "date": "2025-11-04",
-        "note": "Tiefenbach"
-    },
-    {
-        "id": 5,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Ounasvaara",
-        "date": "2025-11-22",
-        "note": ""
-    },
-    {
-        "id": 6,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Vemdalen",
-        "date": "2025-11-28",
-        "note": "Hovde Express"
-    },
-    {
-        "id": 7,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Vemdalen",
-        "date": "2025-11-29",
-        "note": "Hovde Express"
-    },
-    {
-        "id": 8,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val d'Isère",
-        "date": "2025-11-29",
-        "note": ""
-    },
-    {
-        "id": 9,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val d'Isère",
-        "date": "2025-11-30",
-        "note": ""
-    },
-    {
-        "id": 10,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Kronplatz",
-        "date": "2025-12-04",
-        "note": ""
-    },
-    {
-        "id": 11,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Kronplatz",
-        "date": "2025-12-05",
-        "note": ""
-    },
-    {
-        "id": 12,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Kronplatz",
-        "date": "2025-12-06",
-        "note": ""
-    },
-    {
-        "id": 13,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Kronplatz",
-        "date": "2025-12-07",
-        "note": ""
-    },
-    {
-        "id": 14,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Salen",
-        "date": "2026-12-05",
-        "note": "Gustavtorget"
-    },
-    {
-        "id": 15,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Salen",
-        "date": "2026-12-06",
-        "note": "Gustavtorget"
-    },
-    {
-        "id": 16,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Avoriaz",
-        "date": "2025-12-12",
-        "note": ""
-    },
-    {
-        "id": 17,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Avoriaz",
-        "date": "2025-12-13",
-        "note": ""
-    },
-    {
-        "id": 18,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Avoriaz",
-        "date": "2025-12-14",
-        "note": ""
-    },
-    {
-        "id": 19,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Kreischberg",
-        "date": "2025-12-11",
-        "note": ""
-    },
-    {
-        "id": 20,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Kreischberg",
-        "date": "2025-12-12",
-        "note": ""
-    },
-    {
-        "id": 21,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Kreischberg",
-        "date": "2025-12-13",
-        "note": ""
-    },
-    {
-        "id": 22,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Kreischberg",
-        "date": "2025-12-14",
-        "note": ""
-    },
-    {
-        "id": 23,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Are",
-        "date": "2025-12-12",
-        "note": "Rödkulleliften"
-    },
-    {
-        "id": 24,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Are",
-        "date": "2025-12-13",
-        "note": "Rödkulleliften"
-    },
-    {
-        "id": 25,
-        "country": {
-            "EN": "Spain",
-            "DE": "Spanien",
-            "IT": "Spagna",
-            "FR": "Espagne",
-            "CZ": "Španělsko",
-            "SI": "Španija"
-        },
-        "skiResort": "Formigal",
-        "date": "2025-12-13",
-        "note": "Anayet"
-    },
-    {
-        "id": 26,
-        "country": {
-            "EN": "Spain",
-            "DE": "Spanien",
-            "IT": "Spagna",
-            "FR": "Espagne",
-            "CZ": "Španělsko",
-            "SI": "Španija"
-        },
-        "skiResort": "Formigal",
-        "date": "2025-12-14",
-        "note": "Anayet"
-    },
-    {
-        "id": 27,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Białka Tatrzańska",
-        "date": "2025-12-13",
-        "note": ""
-    },
-    {
-        "id": 28,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Białka Tatrzańska",
-        "date": "2025-12-14",
-        "note": ""
-    },
-    {
-        "id": 29,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kranjska Gora",
-        "date": "2025-12-13",
-        "note": ""
-    },
-    {
-        "id": 30,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kranjska Gora",
-        "date": "2025-12-14",
-        "note": ""
-    },
-    {
-        "id": 31,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Cortina",
-        "date": "2025-12-13",
-        "note": "Duca d’Aosta"
-    },
-    {
-        "id": 32,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Cortina",
-        "date": "2025-12-14",
-        "note": "Duca d’Aosta"
-    },
-    {
-        "id": 33,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Avoriaz",
-        "date": "2025-12-23",
-        "note": ""
-    },
-    {
-        "id": 34,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Katschberg",
-        "date": "2025-12-26",
-        "note": ""
-    },
-    {
-        "id": 35,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Koli",
-        "date": "2026-01-03",
-        "note": ""
-    },
-    {
-        "id": 36,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Koli",
-        "date": "2026-01-04",
-        "note": ""
-    },
-    {
-        "id": 37,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Nassfeld",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 38,
-        "country": {
-            "EN": "Czech Republic",
-            "DE": "Tschechische Republik",
-            "IT": "Repubblica Ceca",
-            "FR": "République tchèque",
-            "CZ": "Česká republika",
-            "SI": "Češka republika"
-        },
-        "skiResort": "Kraličak",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 39,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Messila",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 40,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Ellmau",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 41,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Wisła / Skolnity",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 42,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Wisła / Skolnity",
-        "date": "2026-01-11",
-        "note": ""
-    },
-    {
-        "id": 43,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Krvavec",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 44,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Carezza",
-        "date": "2026-01-12",
-        "note": ""
-    },
-    {
-        "id": 45,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Carezza",
-        "date": "2026-01-13",
-        "note": ""
-    },
-    {
-        "id": 46,
-        "country": {
-            "EN": "Spain",
-            "DE": "Spanien",
-            "IT": "Spagna",
-            "FR": "Espagne",
-            "CZ": "Španělsko",
-            "SI": "Španija"
-        },
-        "skiResort": "Baqueira Beret (FWT)",
-        "date": "2026-01-17",
-        "note": "Beret"
-    },
-    {
-        "id": 47,
-        "country": {
-            "EN": "Spain",
-            "DE": "Spanien",
-            "IT": "Spagna",
-            "FR": "Espagne",
-            "CZ": "Španělsko",
-            "SI": "Španija"
-        },
-        "skiResort": "Baqueira Beret (FWT)",
-        "date": "2026-01-18",
-        "note": "Beret"
-    },
-    {
-        "id": 48,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Sappee",
-        "date": "2026-01-17",
-        "note": ""
-    },
-    {
-        "id": 49,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Peuramaa",
-        "date": "2026-01-18",
-        "note": ""
-    },
-    {
-        "id": 50,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Rogla",
-        "date": "2025-01-17",
-        "note": ""
-    },
-    {
-        "id": 51,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Gerlitzen",
-        "date": "2026-01-24",
-        "note": ""
-    },
-    {
-        "id": 52,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Himos",
-        "date": "2026-01-24",
-        "note": ""
-    },
-    {
-        "id": 53,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Bieszczad",
-        "date": "2026-01-24",
-        "note": ""
-    },
-    {
-        "id": 54,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Bieszczad",
-        "date": "2026-01-25",
-        "note": ""
-    },
-    {
-        "id": 55,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Messilä",
-        "date": "2026-01-25",
-        "note": ""
-    },
-    {
-        "id": 56,
-        "country": {
-            "EN": "Czech Republic",
-            "DE": "Tschechische Republik",
-            "IT": "Repubblica Ceca",
-            "FR": "République tchèque",
-            "CZ": "Česká republika",
-            "SI": "Češka republika"
-        },
-        "skiResort": "Olešnice",
-        "date": "2026-01-31",
-        "note": ""
-    },
-    {
-        "id": 57,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Mariborsko Pohorje",
-        "date": "2026-01-31",
-        "note": ""
-    },
-    {
-        "id": 58,
-        "country": {
-            "EN": "Czech Republic",
-            "DE": "Tschechische Republik",
-            "IT": "Repubblica Ceca",
-            "FR": "République tchèque",
-            "CZ": "Česká republika",
-            "SI": "Češka republika"
-        },
-        "skiResort": "Mladé Buky",
-        "date": "2026-02-08",
-        "note": ""
-    },
-    {
-        "id": 59,
-        "country": {
-            "EN": "Slovakia",
-            "DE": "Slowakei",
-            "IT": "Slovacchia",
-            "FR": "Slovaquie",
-            "CZ": "Slovensko",
-            "SI": "Slovaška"
-        },
-        "skiResort": "Bachledka",
-        "date": "2026-02-07",
-        "note": ""
-    },
-    {
-        "id": 60,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Koziniec / Czarna Góra",
-        "date": "2026-02-07",
-        "note": ""
-    },
-    {
-        "id": 61,
-        "country": {
-            "EN": "Poland",
-            "DE": "Polen",
-            "IT": "Polonia",
-            "FR": "Pologne",
-            "CZ": "Polsko",
-            "SI": "Poljska"
-        },
-        "skiResort": "Koziniec / Czarna Góra",
-        "date": "2026-02-08",
-        "note": ""
-    },
-    {
-        "id": 62,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Turracher Hoehe",
-        "date": "2026-02-14",
-        "note": ""
-    },
-    {
-        "id": 63,
-        "country": {
-            "EN": "Czech Republic",
-            "DE": "Tschechische Republik",
-            "IT": "Repubblica Ceca",
-            "FR": "République tchèque",
-            "CZ": "Česká republika",
-            "SI": "Češka republika"
-        },
-        "skiResort": "Velia Rača Snowparadise",
-        "date": "2026-02-14",
-        "note": ""
-    },
-    {
-        "id": 64,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Himos",
-        "date": "2026-02-14",
-        "note": ""
-    },
-    {
-        "id": 65,
-        "country": {
-            "EN": "Finland",
-            "DE": "Finnland",
-            "IT": "Finlandia",
-            "FR": "Finlande",
-            "CZ": "Finsko",
-            "SI": "Finska"
-        },
-        "skiResort": "Himos",
-        "date": "2026-02-15",
-        "note": ""
-    },
-    {
-        "id": 66,
-        "country": {
-            "EN": "Germany",
-            "DE": "Deutschland",
-            "IT": "Germania",
-            "FR": "Allemagne",
-            "CZ": "Německo",
-            "SI": "Nemčija"
-        },
-        "skiResort": "Oberjoch",
-        "date": "2026-02-15",
-        "note": ""
-    },
-    {
-        "id": 67,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Königsleiten",
-        "date": "2026-02-16",
-        "note": "Fussalmexpress"
-    },
-    {
-        "id": 68,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Königsleiten",
-        "date": "2026-02-17",
-        "note": "Fussalmexpress"
-    },
-    {
-        "id": 69,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Les Arcs",
-        "date": "2026-02-17",
-        "note": ""
-    },
-    {
-        "id": 70,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Katschberg",
-        "date": "2026-02-28",
-        "note": ""
-    },
-    {
-        "id": 71,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Paganela",
-        "date": "2026-03-08",
-        "note": "Rifugio Dosson"
-    },
-    {
-        "id": 72,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "La Clusaz",
-        "date": "2026-03-13",
-        "note": "Balme"
-    },
-    {
-        "id": 73,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "La Clusaz",
-        "date": "2026-03-14",
-        "note": "Balme"
-    },
-    {
-        "id": 74,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "La Clusaz",
-        "date": "2026-03-15",
-        "note": "Balme"
-    },
-    {
-        "id": 75,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Kläppen",
-        "date": "2026-03-13",
-        "note": "Gladan"
-    },
-    {
-        "id": 76,
-        "country": {
-            "EN": "Sweden",
-            "DE": "Schweden",
-            "IT": "Svezia",
-            "FR": "Suède",
-            "CZ": "Švédsko",
-            "SI": "Švedska"
-        },
-        "skiResort": "Kläppen",
-        "date": "2026-03-14",
-        "note": "Gladan"
-    },
-    {
-        "id": 77,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Alpe d'Huez",
-        "date": "2026-03-14",
-        "note": ""
-    },
-    {
-        "id": 78,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Alpe d'Huez",
-        "date": "2026-03-15",
-        "note": ""
-    },
-    {
-        "id": 79,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Alpe d'Huez",
-        "date": "2026-03-16",
-        "note": ""
-    },
-    {
-        "id": 80,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Großarl",
-        "date": "2026-03-25",
-        "note": "Panoramabahn"
-    },
-    {
-        "id": 81,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Großarl",
-        "date": "2026-03-26",
-        "note": "Panoramabahn"
-    },
-    {
-        "id": 82,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Morzine",
-        "date": "2026-04-05",
-        "note": ""
-    },
-    {
-        "id": 83,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Klausberg",
-        "date": "2026-04-06",
-        "note": ""
-    },
-    {
-        "id": 84,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Klausberg",
-        "date": "2026-04-07",
-        "note": ""
-    },
-    {
-        "id": 85,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Klausberg",
-        "date": "2026-04-08",
-        "note": ""
-    },
-    {
-        "id": 86,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Klausberg",
-        "date": "2026-04-09",
-        "note": ""
-    },
-    {
-        "id": 87,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Klausberg",
-        "date": "2026-04-10",
-        "note": ""
-    },
-    {
-        "id": 88,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-25",
-        "note": ""
-    },
-    {
-        "id": 89,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-26",
-        "note": ""
-    },
-    {
-        "id": 90,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-27",
-        "note": ""
-    },
-    {
-        "id": 91,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-28",
-        "note": ""
-    },
-    {
-        "id": 92,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-29",
-        "note": ""
-    },
-    {
-        "id": 93,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-04-30",
-        "note": ""
-    },
-    {
-        "id": 94,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-05-01",
-        "note": ""
-    },
-    {
-        "id": 95,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Val Thorens",
-        "date": "2026-05-02",
-        "note": ""
-    },
-    {
-        "id": 96,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Sexten",
-        "date": "2025-12-11",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 97,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Sexten",
-        "date": "2025-12-12",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 98,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Sexten",
-        "date": "2025-12-13",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 99,
-        "country": {
-            "EN": "Italy",
-            "DE": "Italien",
-            "IT": "Italia",
-            "FR": "Italie",
-            "CZ": "Itálie",
-            "SI": "Italija"
-        },
-        "skiResort": "Sexten",
-        "date": "2025-12-14",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 100,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Rogla",
-        "date": "2025-12-13",
-        "note": ""
-    },
-    {
-        "id": 101,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Grosek",
-        "date": "2025-12-26",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 102,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Grosek",
-        "date": "2026-01-02",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 103,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-03",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 104,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-04",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 105,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-05",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 106,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-06",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 107,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-07",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 108,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-08",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 109,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-09",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 110,
-        "country": {
-            "EN": "France",
-            "DE": "Frankreich",
-            "IT": "Francia",
-            "FR": "France",
-            "CZ": "Francie",
-            "SI": "Francija"
-        },
-        "skiResort": "Serre Chevalier",
-        "date": "2026-01-10",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 111,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Mariborsko Pohorje",
-        "date": "2026-01-04",
-        "note": ""
-    },
-    {
-        "id": 112,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kope",
-        "date": "2026-01-10",
-        "note": ""
-    },
-    {
-        "id": 113,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kope",
-        "date": "2026-01-11",
-        "note": ""
-    },
-    {
-        "id": 114,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Krvavec",
-        "date": "2026-01-11",
-        "note": ""
-    },
-    {
-        "id": 115,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Grosseck",
-        "date": "2026-01-17",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 116,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Soriška Planina",
-        "date": "2026-01-18",
-        "note": ""
-    },
-    {
-        "id": 117,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Grosseck",
-        "date": "2026-01-31",
-        "note": "Slovenian team"
-    },
-    {
-        "id": 118,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kope",
-        "date": "2026-02-07",
-        "note": ""
-    },
-    {
-        "id": 119,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kope",
-        "date": "2026-02-08",
-        "note": ""
-    },
-    {
-        "id": 120,
-        "country": {
-            "EN": "Slovenia",
-            "DE": "Slowenien",
-            "IT": "Slovenia",
-            "FR": "Slovénie",
-            "CZ": "Slovinsko",
-            "SI": "Slovenija"
-        },
-        "skiResort": "Kranjska Gora",
-        "date": "2026-02-08",
-        "note": ""
-    },
-    {
-        "id": 121,
-        "country": {
-            "EN": "Austria",
-            "DE": "Österreich",
-            "IT": "Austria",
-            "FR": "Autriche",
-            "CZ": "Rakousko",
-            "SI": "Avstrija"
-        },
-        "skiResort": "Grosseck",
-        "date": "2026-02-21",
-        "note": "Slovenian team"
-    }
+  {
+    "id": 1,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Solden",
+    "date": "2025-11-01",
+    "note": "Tiefenbach"
+  },
+  {
+    "id": 2,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Solden",
+    "date": "2025-11-02",
+    "note": "Tiefenbach"
+  },
+  {
+    "id": 3,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Solden",
+    "date": "2025-11-03",
+    "note": "Tiefenbach"
+  },
+  {
+    "id": 4,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Solden",
+    "date": "2025-11-04",
+    "note": "Tiefenbach"
+  },
+  {
+    "id": 5,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Ounasvaara",
+    "date": "2025-11-22",
+    "note": ""
+  },
+  {
+    "id": 6,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Vemdalen",
+    "date": "2025-11-28",
+    "note": "Hovde Express"
+  },
+  {
+    "id": 7,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Vemdalen",
+    "date": "2025-11-29",
+    "note": "Hovde Express"
+  },
+  {
+    "id": 8,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val d'Isère",
+    "date": "2025-11-29",
+    "note": ""
+  },
+  {
+    "id": 9,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val d'Isère",
+    "date": "2025-11-30",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Kronplatz",
+    "date": "2025-12-04",
+    "note": ""
+  },
+  {
+    "id": 11,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Kronplatz",
+    "date": "2025-12-05",
+    "note": ""
+  },
+  {
+    "id": 12,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Kronplatz",
+    "date": "2025-12-06",
+    "note": ""
+  },
+  {
+    "id": 13,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Kronplatz",
+    "date": "2025-12-07",
+    "note": ""
+  },
+  {
+    "id": 14,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Salen",
+    "date": "2026-12-05",
+    "note": "Gustavtorget"
+  },
+  {
+    "id": 15,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Salen",
+    "date": "2026-12-06",
+    "note": "Gustavtorget"
+  },
+  {
+    "id": 16,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Avoriaz",
+    "date": "2025-12-12",
+    "note": ""
+  },
+  {
+    "id": 17,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Avoriaz",
+    "date": "2025-12-13",
+    "note": ""
+  },
+  {
+    "id": 18,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Avoriaz",
+    "date": "2025-12-14",
+    "note": ""
+  },
+  {
+    "id": 19,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2025-12-11",
+    "note": ""
+  },
+  {
+    "id": 20,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2025-12-12",
+    "note": ""
+  },
+  {
+    "id": 21,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2025-12-13",
+    "note": ""
+  },
+  {
+    "id": 22,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2025-12-14",
+    "note": ""
+  },
+  {
+    "id": 23,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Are",
+    "date": "2025-12-12",
+    "note": "Rödkulleliften"
+  },
+  {
+    "id": 24,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Are",
+    "date": "2025-12-13",
+    "note": "Rödkulleliften"
+  },
+  {
+    "id": 25,
+    "country": {
+      "EN": "Spain",
+      "DE": "Spanien",
+      "IT": "Spagna",
+      "FR": "Espagne",
+      "CZ": "Španělsko",
+      "SI": "Španija"
+    },
+    "skiResort": "Formigal",
+    "date": "2025-12-13",
+    "note": "Anayet"
+  },
+  {
+    "id": 26,
+    "country": {
+      "EN": "Spain",
+      "DE": "Spanien",
+      "IT": "Spagna",
+      "FR": "Espagne",
+      "CZ": "Španělsko",
+      "SI": "Španija"
+    },
+    "skiResort": "Formigal",
+    "date": "2025-12-14",
+    "note": "Anayet"
+  },
+  {
+    "id": 27,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Białka Tatrzańska",
+    "date": "2025-12-13",
+    "note": ""
+  },
+  {
+    "id": 28,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Białka Tatrzańska",
+    "date": "2025-12-14",
+    "note": ""
+  },
+  {
+    "id": 29,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kranjska Gora",
+    "date": "2025-12-13",
+    "note": ""
+  },
+  {
+    "id": 30,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kranjska Gora",
+    "date": "2025-12-14",
+    "note": ""
+  },
+  {
+    "id": 31,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Cortina",
+    "date": "2025-12-13",
+    "note": "Duca d’Aosta"
+  },
+  {
+    "id": 32,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Cortina",
+    "date": "2025-12-14",
+    "note": "Duca d’Aosta"
+  },
+  {
+    "id": 33,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Avoriaz",
+    "date": "2025-12-23",
+    "note": ""
+  },
+  {
+    "id": 34,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Katschberg",
+    "date": "2025-12-26",
+    "note": ""
+  },
+  {
+    "id": 35,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Koli",
+    "date": "2026-01-03",
+    "note": ""
+  },
+  {
+    "id": 36,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Koli",
+    "date": "2026-01-04",
+    "note": ""
+  },
+  {
+    "id": 37,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Nassfeld",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 38,
+    "country": {
+      "EN": "Czech Republic",
+      "DE": "Tschechische Republik",
+      "IT": "Repubblica Ceca",
+      "FR": "République tchèque",
+      "CZ": "Česká republika",
+      "SI": "Češka republika"
+    },
+    "skiResort": "Kraličak",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 39,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Messila",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 40,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Ellmau",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 41,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Wisła / Skolnity",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 42,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Wisła / Skolnity",
+    "date": "2026-01-11",
+    "note": ""
+  },
+  {
+    "id": 43,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Krvavec",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 44,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Carezza",
+    "date": "2026-01-12",
+    "note": ""
+  },
+  {
+    "id": 45,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Carezza",
+    "date": "2026-01-13",
+    "note": ""
+  },
+  {
+    "id": 46,
+    "country": {
+      "EN": "Spain",
+      "DE": "Spanien",
+      "IT": "Spagna",
+      "FR": "Espagne",
+      "CZ": "Španělsko",
+      "SI": "Španija"
+    },
+    "skiResort": "Baqueira Beret (FWT)",
+    "date": "2026-01-17",
+    "note": "Beret"
+  },
+  {
+    "id": 47,
+    "country": {
+      "EN": "Spain",
+      "DE": "Spanien",
+      "IT": "Spagna",
+      "FR": "Espagne",
+      "CZ": "Španělsko",
+      "SI": "Španija"
+    },
+    "skiResort": "Baqueira Beret (FWT)",
+    "date": "2026-01-18",
+    "note": "Beret"
+  },
+  {
+    "id": 48,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Sappee",
+    "date": "2026-01-17",
+    "note": ""
+  },
+  {
+    "id": 49,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Peuramaa",
+    "date": "2026-01-18",
+    "note": ""
+  },
+  {
+    "id": 50,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Rogla",
+    "date": "2025-01-17",
+    "note": ""
+  },
+  {
+    "id": 51,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Gerlitzen",
+    "date": "2026-01-24",
+    "note": ""
+  },
+  {
+    "id": 52,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Himos",
+    "date": "2026-01-24",
+    "note": ""
+  },
+  {
+    "id": 53,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Bieszczad",
+    "date": "2026-01-24",
+    "note": ""
+  },
+  {
+    "id": 54,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Bieszczad",
+    "date": "2026-01-25",
+    "note": ""
+  },
+  {
+    "id": 55,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Messilä",
+    "date": "2026-01-25",
+    "note": ""
+  },
+  {
+    "id": 56,
+    "country": {
+      "EN": "Czech Republic",
+      "DE": "Tschechische Republik",
+      "IT": "Repubblica Ceca",
+      "FR": "République tchèque",
+      "CZ": "Česká republika",
+      "SI": "Češka republika"
+    },
+    "skiResort": "Olešnice",
+    "date": "2026-01-31",
+    "note": ""
+  },
+  {
+    "id": 57,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Mariborsko Pohorje",
+    "date": "2026-01-31",
+    "note": ""
+  },
+  {
+    "id": 58,
+    "country": {
+      "EN": "Czech Republic",
+      "DE": "Tschechische Republik",
+      "IT": "Repubblica Ceca",
+      "FR": "République tchèque",
+      "CZ": "Česká republika",
+      "SI": "Češka republika"
+    },
+    "skiResort": "Mladé Buky",
+    "date": "2026-02-08",
+    "note": ""
+  },
+  {
+    "id": 59,
+    "country": {
+      "EN": "Slovakia",
+      "DE": "Slowakei",
+      "IT": "Slovacchia",
+      "FR": "Slovaquie",
+      "CZ": "Slovensko",
+      "SI": "Slovaška"
+    },
+    "skiResort": "Bachledka",
+    "date": "2026-02-07",
+    "note": ""
+  },
+  {
+    "id": 60,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Koziniec / Czarna Góra",
+    "date": "2026-02-07",
+    "note": ""
+  },
+  {
+    "id": 61,
+    "country": {
+      "EN": "Poland",
+      "DE": "Polen",
+      "IT": "Polonia",
+      "FR": "Pologne",
+      "CZ": "Polsko",
+      "SI": "Poljska"
+    },
+    "skiResort": "Koziniec / Czarna Góra",
+    "date": "2026-02-08",
+    "note": ""
+  },
+  {
+    "id": 62,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Turracher Hoehe",
+    "date": "2026-02-14",
+    "note": ""
+  },
+  {
+    "id": 63,
+    "country": {
+      "EN": "Czech Republic",
+      "DE": "Tschechische Republik",
+      "IT": "Repubblica Ceca",
+      "FR": "République tchèque",
+      "CZ": "Česká republika",
+      "SI": "Češka republika"
+    },
+    "skiResort": "Velia Rača Snowparadise",
+    "date": "2026-02-14",
+    "note": ""
+  },
+  {
+    "id": 64,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Himos",
+    "date": "2026-02-14",
+    "note": ""
+  },
+  {
+    "id": 65,
+    "country": {
+      "EN": "Finland",
+      "DE": "Finnland",
+      "IT": "Finlandia",
+      "FR": "Finlande",
+      "CZ": "Finsko",
+      "SI": "Finska"
+    },
+    "skiResort": "Himos",
+    "date": "2026-02-15",
+    "note": ""
+  },
+  {
+    "id": 66,
+    "country": {
+      "EN": "Germany",
+      "DE": "Deutschland",
+      "IT": "Germania",
+      "FR": "Allemagne",
+      "CZ": "Německo",
+      "SI": "Nemčija"
+    },
+    "skiResort": "Oberjoch",
+    "date": "2026-02-15",
+    "note": ""
+  },
+  {
+    "id": 67,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Königsleiten",
+    "date": "2026-02-16",
+    "note": "Fussalmexpress"
+  },
+  {
+    "id": 68,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Königsleiten",
+    "date": "2026-02-17",
+    "note": "Fussalmexpress"
+  },
+  {
+    "id": 69,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Les Arcs",
+    "date": "2026-02-17",
+    "note": ""
+  },
+  {
+    "id": 70,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Katschberg",
+    "date": "2026-02-28",
+    "note": ""
+  },
+  {
+    "id": 71,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Paganela",
+    "date": "2026-03-08",
+    "note": "Rifugio Dosson"
+  },
+  {
+    "id": 72,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "La Clusaz",
+    "date": "2026-03-13",
+    "note": "Balme"
+  },
+  {
+    "id": 73,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "La Clusaz",
+    "date": "2026-03-14",
+    "note": "Balme"
+  },
+  {
+    "id": 74,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "La Clusaz",
+    "date": "2026-03-15",
+    "note": "Balme"
+  },
+  {
+    "id": 75,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Kläppen",
+    "date": "2026-03-13",
+    "note": "Gladan"
+  },
+  {
+    "id": 76,
+    "country": {
+      "EN": "Sweden",
+      "DE": "Schweden",
+      "IT": "Svezia",
+      "FR": "Suède",
+      "CZ": "Švédsko",
+      "SI": "Švedska"
+    },
+    "skiResort": "Kläppen",
+    "date": "2026-03-14",
+    "note": "Gladan"
+  },
+  {
+    "id": 77,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Alpe d'Huez",
+    "date": "2026-03-14",
+    "note": ""
+  },
+  {
+    "id": 78,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Alpe d'Huez",
+    "date": "2026-03-15",
+    "note": ""
+  },
+  {
+    "id": 79,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Alpe d'Huez",
+    "date": "2026-03-16",
+    "note": ""
+  },
+  {
+    "id": 80,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Großarl",
+    "date": "2026-03-25",
+    "note": "Panoramabahn"
+  },
+  {
+    "id": 81,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Großarl",
+    "date": "2026-03-26",
+    "note": "Panoramabahn"
+  },
+  {
+    "id": 82,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Morzine",
+    "date": "2026-04-05",
+    "note": ""
+  },
+  {
+    "id": 83,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Klausberg",
+    "date": "2026-04-06",
+    "note": ""
+  },
+  {
+    "id": 84,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Klausberg",
+    "date": "2026-04-07",
+    "note": ""
+  },
+  {
+    "id": 85,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Klausberg",
+    "date": "2026-04-08",
+    "note": ""
+  },
+  {
+    "id": 86,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Klausberg",
+    "date": "2026-04-09",
+    "note": ""
+  },
+  {
+    "id": 87,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Klausberg",
+    "date": "2026-04-10",
+    "note": ""
+  },
+  {
+    "id": 88,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-25",
+    "note": ""
+  },
+  {
+    "id": 89,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-26",
+    "note": ""
+  },
+  {
+    "id": 90,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-27",
+    "note": ""
+  },
+  {
+    "id": 91,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-28",
+    "note": ""
+  },
+  {
+    "id": 92,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-29",
+    "note": ""
+  },
+  {
+    "id": 93,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-04-30",
+    "note": ""
+  },
+  {
+    "id": 94,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-05-01",
+    "note": ""
+  },
+  {
+    "id": 95,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Val Thorens",
+    "date": "2026-05-02",
+    "note": ""
+  },
+  {
+    "id": 96,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Sexten",
+    "date": "2025-12-11",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 97,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Sexten",
+    "date": "2025-12-12",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 98,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Sexten",
+    "date": "2025-12-13",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 99,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Sexten",
+    "date": "2025-12-14",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 100,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Rogla",
+    "date": "2025-12-13",
+    "note": ""
+  },
+  {
+    "id": 101,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosek",
+    "date": "2025-12-26",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 102,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosek",
+    "date": "2026-01-02",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 103,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-03",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 104,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-04",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 105,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-05",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 106,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-06",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 107,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-07",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 108,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-08",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 109,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-09",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 110,
+    "country": {
+      "EN": "France",
+      "DE": "Frankreich",
+      "IT": "Francia",
+      "FR": "France",
+      "CZ": "Francie",
+      "SI": "Francija"
+    },
+    "skiResort": "Serre Chevalier",
+    "date": "2026-01-10",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 111,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Mariborsko Pohorje",
+    "date": "2026-01-04",
+    "note": ""
+  },
+  {
+    "id": 112,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kope",
+    "date": "2026-01-10",
+    "note": ""
+  },
+  {
+    "id": 113,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kope",
+    "date": "2026-01-11",
+    "note": ""
+  },
+  {
+    "id": 114,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Krvavec",
+    "date": "2026-01-11",
+    "note": ""
+  },
+  {
+    "id": 115,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosseck",
+    "date": "2026-01-17",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 116,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Soriška Planina",
+    "date": "2026-01-18",
+    "note": ""
+  },
+  {
+    "id": 117,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosseck",
+    "date": "2026-01-31",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 118,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kope",
+    "date": "2026-02-07",
+    "note": ""
+  },
+  {
+    "id": 119,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kope",
+    "date": "2026-02-08",
+    "note": ""
+  },
+  {
+    "id": 120,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Kranjska Gora",
+    "date": "2026-02-08",
+    "note": ""
+  },
+  {
+    "id": 121,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosseck",
+    "date": "2026-02-21",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 122,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Mojstrana",
+    "date": "2026-02-07",
+    "note": ""
+  },
+  {
+    "id": 123,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Mojstrana",
+    "date": "2026-02-08",
+    "note": ""
+  }
 ]
