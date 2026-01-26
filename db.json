@@ -1720,5 +1720,19 @@
     "skiResort": "Mojstrana",
     "date": "2026-02-08",
     "note": ""
+  },
+    {
+    "id": 124,
+    "country": {
+"EN": "Croatia",
+"DE": "Kroatien",
+"IT": "Croazia",
+"FR": "Croatie",
+"CZ": "Chorvatsko",
+"SI": "Hrvaška"
+    },
+    "skiResort": "Platak",
+    "date": "2026-02-01",
+    "note": ""
   }
 ]
