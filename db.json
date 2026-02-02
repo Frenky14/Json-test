@@ -1649,7 +1649,7 @@
     },
     "skiResort": "Kope",
     "date": "2026-02-07",
-    "note": ""
+    "note": "New ACE skis"
   },
   {
     "id": 119,
@@ -1663,7 +1663,7 @@
     },
     "skiResort": "Kope",
     "date": "2026-02-08",
-    "note": ""
+    "note": "New ACE skis"
   },
   {
     "id": 120,
@@ -1677,7 +1677,7 @@
     },
     "skiResort": "Kranjska Gora",
     "date": "2026-02-08",
-    "note": ""
+    "note": "New ACE skis"
   },
   {
     "id": 121,
@@ -1705,7 +1705,7 @@
     },
     "skiResort": "Mojstrana",
     "date": "2026-02-07",
-    "note": ""
+    "note": "New ACE skis"
   },
   {
     "id": 123,
@@ -1719,7 +1719,7 @@
     },
     "skiResort": "Mojstrana",
     "date": "2026-02-08",
-    "note": ""
+    "note": "New ACE skis"
   },
     {
     "id": 124,
@@ -1733,6 +1733,34 @@
     },
     "skiResort": "Platak",
     "date": "2026-02-01",
+    "note": ""
+  },
+    {
+    "id": 125,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Krvavec",
+    "date": "2026-02-07",
+    "note": ""
+  },
+      {
+    "id": 126,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Krvavec",
+    "date": "2026-02-08",
     "note": ""
   }
 ]
