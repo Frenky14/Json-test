@@ -1748,5 +1748,91 @@
     "skiResort": "Krvavec",
     "date": "2026-02-08",
     "note": ""
+  },
+  [
+  {
+    "id": 127,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2026-02-18",
+    "note": "New ACE skis / Slovenian team"
+  },
+  {
+    "id": 128,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Soriška Planina",
+    "date": "2026-02-19",
+    "note": "New ACE skis"
+  },
+  {
+    "id": 129,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Grosek",
+    "date": "2026-02-21",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 130,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "date": "2026-02-25",
+    "note": "New ACE skis / Slovenian team"
+  },
+  {
+    "id": 131,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Katschberg",
+    "date": "2026-02-28",
+    "note": "Slovenian team"
+  },
+  {
+    "id": 132,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Krvavec",
+    "date": "2026-03-07",
+    "note": "New ACE skis"
   }
 ]
+
