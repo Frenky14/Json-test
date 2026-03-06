@@ -1818,20 +1818,6 @@
     "skiResort": "Katschberg",
     "date": "2026-02-28",
     "note": "Slovenian team"
-  },
-  {
-    "id": 132,
-    "country": {
-      "EN": "Slovenia",
-      "DE": "Slowenien",
-      "IT": "Slovenia",
-      "FR": "Slovénie",
-      "CZ": "Slovinsko",
-      "SI": "Slovenija"
-    },
-    "skiResort": "Krvavec",
-    "date": "2026-03-07",
-    "note": "New ACE skis"
   }
 ]
 
