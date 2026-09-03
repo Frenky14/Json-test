@@ -268,5 +268,155 @@
     "startDate": "2026-10-31",
     "endDate": "2026-11-04",
     "note": ""
+  },
+  {
+    "id": 19,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Skifun – Kreischberg",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-12",
+    "note": ""
+  },
+  {
+    "id": 20,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Ski Pass – Katschberg",
+    "startDate": "2026-12-26",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 21,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Ski Erik – Kronplatz",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-29",
+    "note": ""
+  },
+  {
+    "id": 22,
+    "country": {
+      "EN": "Italy",
+      "DE": "Italien",
+      "IT": "Italia",
+      "FR": "Italie",
+      "CZ": "Itálie",
+      "SI": "Italija"
+    },
+    "skiResort": "Hzuts – Sexten",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-12",
+    "note": ""
+  },
+  {
+    "id": 23,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Ace Tour – Kr. Gora",
+    "startDate": "2027-01-09",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 24,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Ace Tour – Kope/Krvavec",
+    "startDate": "2027-01-16",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 25,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Ace Tour – Rogla",
+    "startDate": "2027-01-23",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 26,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Ace Tour – Maribor",
+    "startDate": "2027-01-30",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 27,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Ace Tour – Krvavec",
+    "startDate": "2027-02-06",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 28,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Extremvital – Kr. Gora",
+    "startDate": "2027-02-08",
+    "endDate": "",
+    "note": ""
   }
 ]
