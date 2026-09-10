@@ -418,5 +418,95 @@
     "startDate": "2027-02-08",
     "endDate": "",
     "note": ""
+  },
+  {
+    "id": 29,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Reiteralm",
+    "startDate": "2026-12-05",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 30,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "St. Anton",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "note": ""
+  },
+  {
+    "id": 31,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Hinterstoder",
+    "startDate": "2026-12-08",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 32,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Sankt Oswald",
+    "startDate": "2026-12-12",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 33,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Kreischberg",
+    "startDate": "2026-12-19",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 34,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Söll",
+    "startDate": "2026-12-19",
+    "endDate": "",
+    "note": ""
   }
 ]
