@@ -508,5 +508,20 @@
     "startDate": "2026-12-19",
     "endDate": "",
     "note": ""
+  },
+  {
+    "id": 35,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Mölltaler Gletscher",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "note": ""
   }
 ]
