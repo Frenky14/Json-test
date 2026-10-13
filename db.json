@@ -281,7 +281,7 @@
     },
     "skiResort": "Skifun – Kreischberg",
     "startDate": "2026-12-11",
-    "endDate": "2026-12-12",
+    "endDate": "2026-12-13",
     "note": ""
   },
   {
@@ -310,7 +310,7 @@
       "SI": "Italija"
     },
     "skiResort": "Ski Erik – Kronplatz",
-    "startDate": "2026-11-28",
+    "startDate": "2026-11-27",
     "endDate": "2026-11-29",
     "note": ""
   },
@@ -324,7 +324,7 @@
       "CZ": "Itálie",
       "SI": "Italija"
     },
-    "skiResort": "Hzuts – Sexten",
+    "skiResort": "HZUTS – Drei Zinnen",
     "startDate": "2026-12-11",
     "endDate": "2026-12-12",
     "note": ""
@@ -354,7 +354,7 @@
       "CZ": "Slovinsko",
       "SI": "Slovenija"
     },
-    "skiResort": "Ace Tour – Kope/Krvavec",
+    "skiResort": "Ace Tour – Krvavec",
     "startDate": "2027-01-16",
     "endDate": "",
     "note": ""
@@ -399,7 +399,7 @@
       "CZ": "Slovinsko",
       "SI": "Slovenija"
     },
-    "skiResort": "Ace Tour – Krvavec",
+    "skiResort": "Ace Tour – Krvavec (Zaključek)",
     "startDate": "2027-02-06",
     "endDate": "",
     "note": ""
@@ -414,7 +414,7 @@
       "CZ": "Slovinsko",
       "SI": "Slovenija"
     },
-    "skiResort": "Extremvital – Kr. Gora",
+    "skiResort": "Extreme Vital – Kr. Gora",
     "startDate": "2027-02-08",
     "endDate": "",
     "note": ""
@@ -522,6 +522,111 @@
     "skiResort": "Mölltaler Gletscher",
     "startDate": "2026-11-21",
     "endDate": "2026-11-22",
+    "note": ""
+  },
+  {
+    "id": 36,
+    "country": {
+      "EN": "Slovenia",
+      "DE": "Slowenien",
+      "IT": "Slovenia",
+      "FR": "Slovénie",
+      "CZ": "Slovinsko",
+      "SI": "Slovenija"
+    },
+    "skiResort": "Intersport Bernik – Kr. Gora",
+    "startDate": "2026-12-19",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 37,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "A1 x Skipass x Elan – Nassfeld",
+    "startDate": "2027-01-09",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 38,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "A1 x Skipass x Elan – Gerlitzen",
+    "startDate": "2027-02-06",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 39,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "A1 x Skipass x Elan – Katschberg",
+    "startDate": "2027-02-08",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 40,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "A1 x Skipass x Elan – Bad Kleinkirchheim",
+    "startDate": "2027-02-13",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 41,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "A1 x Skipass x Elan – Turracher Höhe",
+    "startDate": "2027-03-13",
+    "endDate": "",
+    "note": ""
+  },
+  {
+    "id": 42,
+    "country": {
+      "EN": "Austria",
+      "DE": "Österreich",
+      "IT": "Austria",
+      "FR": "Autriche",
+      "CZ": "Rakousko",
+      "SI": "Avstrija"
+    },
+    "skiResort": "Ski Pass – Kreischberg",
+    "startDate": "2027-03-18",
+    "endDate": "2027-03-21",
     "note": ""
   }
 ]
